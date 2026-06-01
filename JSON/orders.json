@@ -1,0 +1,812 @@
+[
+  {
+    "_id": {
+      "$oid": "6a0d997794c90c62a5617e24"
+    },
+    "partnerSlug": "vanguard-realty",
+    "userId": {
+      "$oid": "6a0d99f0b123892cf651b0b8"
+    },
+    "status": "paid",
+    "totalValue": 79.2,
+    "totalTaxValue": 0,
+    "contact": {
+      "firstName": "Kai",
+      "lastName": "Diaz",
+      "email": "kai.diaz461d@example.com",
+      "phoneNumber": "+1-555-0170-29"
+    },
+    "billingAddress": {
+      "state": "New York",
+      "country": "US",
+      "town": "Brooklyn",
+      "zipCode": "11204"
+    },
+    "createdAt": {
+      "$date": "2026-05-20T11:22:31.992Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-20T11:24:36.924Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a0cf835b123892cf6371865"
+    },
+    "partnerSlug": "vanguard-realty",
+    "userId": {
+      "$oid": "6a0cf894bd77c295034262c3"
+    },
+    "status": "paid",
+    "totalValue": 222.48,
+    "totalTaxValue": 16.88,
+    "contact": {
+      "firstName": "Zara",
+      "lastName": "Chen",
+      "email": "zara.chenebd4@example.com",
+      "phoneNumber": "+1-555-0135-12"
+    },
+    "billingAddress": {
+      "state": "Tennessee",
+      "country": "US",
+      "town": "Tracy City",
+      "zipCode": "37387"
+    },
+    "createdAt": {
+      "$date": "2026-05-19T23:54:29.348Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-19T23:56:07.064Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a0ba4e6b123892cf6d1d5c4"
+    },
+    "partnerSlug": "vanguard-realty",
+    "userId": {
+      "$oid": "6a0b9fb9bd77c29503d9edcc"
+    },
+    "status": "paid",
+    "totalValue": 33.95,
+    "totalTaxValue": 2.75,
+    "contact": {
+      "firstName": "Nia",
+      "lastName": "Okafor",
+      "email": "nia.okafor67a4@example.com",
+      "phoneNumber": "+1-555-0103-64"
+    },
+    "billingAddress": {
+      "state": "Arizona",
+      "country": "US",
+      "town": "Avondale",
+      "zipCode": "85392"
+    },
+    "createdAt": {
+      "$date": "2026-05-18T23:46:46.797Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-18T23:47:15.281Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a0b9f9ab123892cf6cfb468"
+    },
+    "partnerSlug": "vanguard-realty",
+    "userId": {
+      "$oid": "6a0b9fb9bd77c29503d9edcc"
+    },
+    "status": "paid",
+    "totalValue": 216.73,
+    "totalTaxValue": 17.53,
+    "contact": {
+      "firstName": "Nia",
+      "lastName": "Okafor",
+      "email": "nia.okafor67a4@example.com",
+      "phoneNumber": "+1-555-0103-64"
+    },
+    "billingAddress": {
+      "state": "Arizona",
+      "country": "US",
+      "town": "Avondale",
+      "zipCode": "85392"
+    },
+    "createdAt": {
+      "$date": "2026-05-18T23:24:10.719Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-18T23:24:47.249Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a0b296cbd77c295039ebfbf"
+    },
+    "partnerSlug": "vanguard-realty",
+    "userId": {
+      "$oid": "6a0b29a3b123892cf695aac7"
+    },
+    "status": "paid",
+    "totalValue": 217.93,
+    "totalTaxValue": 12.33,
+    "contact": {
+      "firstName": "Jade",
+      "lastName": "Brooks",
+      "email": "jade.brooks4501@example.com",
+      "phoneNumber": "+1-555-0169-01"
+    },
+    "billingAddress": {
+      "state": "Pennsylvania",
+      "country": "US",
+      "town": "Lancaster",
+      "zipCode": "17601"
+    },
+    "createdAt": {
+      "$date": "2026-05-18T14:59:56.815Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-18T15:00:57.816Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a0756b094c90c62a5d2a33d"
+    },
+    "partnerSlug": "vanguard-realty",
+    "userId": {
+      "$oid": "6a0756e094c90c62a5d2b6a8"
+    },
+    "status": "paid",
+    "totalValue": 159.2,
+    "totalTaxValue": 0,
+    "contact": {
+      "firstName": "Luna",
+      "lastName": "Vega",
+      "email": "luna.vegafb6f@example.com",
+      "phoneNumber": "+1-555-0151-11"
+    },
+    "billingAddress": {
+      "state": "Florida",
+      "country": "US",
+      "town": "Orlando",
+      "zipCode": "32836-5041"
+    },
+    "createdAt": {
+      "$date": "2026-05-15T17:24:00.987Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-15T17:24:51.934Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a06c8c4a5afd8a64b6f14ba"
+    },
+    "partnerSlug": "vanguard-realty",
+    "userId": {
+      "$oid": "6a06c92ca5afd8a64b6f17a6"
+    },
+    "status": "paid",
+    "totalValue": 302.4,
+    "totalTaxValue": 0,
+    "contact": {
+      "firstName": "Tasha",
+      "lastName": "Mendez",
+      "email": "tasha.mendez13c0@example.com",
+      "phoneNumber": "+1-555-0119-92"
+    },
+    "billingAddress": {
+      "state": "Minnesota",
+      "country": "US",
+      "town": "Rosemount",
+      "zipCode": "55068"
+    },
+    "createdAt": {
+      "$date": "2026-05-15T07:18:28.374Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-15T07:20:19.151Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a06364ba5afd8a64b47c707"
+    },
+    "partnerSlug": "vanguard-realty",
+    "userId": {
+      "$oid": "6a06366da5afd8a64b47d425"
+    },
+    "status": "paid",
+    "totalValue": 203.12,
+    "totalTaxValue": 15.12,
+    "contact": {
+      "firstName": "Samir",
+      "lastName": "Akhtar",
+      "email": "samir.akhtare4b0@example.com",
+      "phoneNumber": "+1-555-0128-76"
+    },
+    "billingAddress": {
+      "state": "Washington",
+      "country": "US",
+      "town": "Bonney Lake ",
+      "zipCode": "98391"
+    },
+    "createdAt": {
+      "$date": "2026-05-14T20:53:31.701Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-14T20:54:08.544Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a053bbba5afd8a64bfe2176"
+    },
+    "partnerSlug": "vanguard-realty",
+    "userId": {
+      "$oid": "699d2f925ea9249b0468b7af"
+    },
+    "status": "paid",
+    "totalValue": 65.55,
+    "totalTaxValue": 5.55,
+    "contact": {
+      "firstName": "Eli",
+      "lastName": "Zhou",
+      "email": "eli.zhouf455@example.com",
+      "phoneNumber": "+1-555-0144-85"
+    },
+    "billingAddress": {
+      "state": "Tennessee",
+      "country": "US",
+      "town": "Chattanooga",
+      "zipCode": "37421"
+    },
+    "createdAt": {
+      "$date": "2026-05-14T03:04:27.598Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-14T03:06:59.261Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a051fb0b4a841b94a78a52c"
+    },
+    "partnerSlug": "skyline-property",
+    "userId": {
+      "$oid": "6a051fbcd67fac39652572af"
+    },
+    "status": "paid",
+    "totalValue": 79.2,
+    "totalTaxValue": 0,
+    "contact": {
+      "firstName": "Quinn",
+      "lastName": "Adams",
+      "email": "quinn.adamsa678@example.com",
+      "phoneNumber": "+1-555-0166-20"
+    },
+    "billingAddress": {
+      "state": "Indiana",
+      "country": "US",
+      "town": "Indianapolis ",
+      "zipCode": "46227"
+    },
+    "createdAt": {
+      "$date": "2026-05-14T01:04:48.466Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-14T01:05:03.281Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a0504a9d67fac396518aacb"
+    },
+    "partnerSlug": "vanguard-realty",
+    "userId": {
+      "$oid": "6a050521d67fac396518e3cc"
+    },
+    "status": "paid",
+    "totalValue": 105.6,
+    "totalTaxValue": 0,
+    "contact": {
+      "firstName": "Nia",
+      "lastName": "Lopez",
+      "email": "nia.lopez0d0b@example.com",
+      "phoneNumber": "+1-555-0113-11"
+    },
+    "billingAddress": {
+      "state": "New York",
+      "country": "US",
+      "town": "Bayside",
+      "zipCode": "11361"
+    },
+    "createdAt": {
+      "$date": "2026-05-13T23:09:29.800Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-13T23:11:34.776Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a04ff22b4a841b94a699946"
+    },
+    "partnerSlug": "skyline-property",
+    "userId": {
+      "$oid": "6a04ff59b4a841b94a69b2d2"
+    },
+    "status": "paid",
+    "totalValue": 79.2,
+    "totalTaxValue": 0,
+    "contact": {
+      "firstName": "Avery",
+      "lastName": "Park",
+      "email": "avery.park74a5@example.com",
+      "phoneNumber": "+1-555-0116-65"
+    },
+    "billingAddress": {
+      "state": "New York",
+      "country": "US",
+      "town": "Bk",
+      "zipCode": "11225"
+    },
+    "createdAt": {
+      "$date": "2026-05-13T22:45:54.326Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-13T22:46:52.127Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a04fe91a5afd8a64be110c1"
+    },
+    "partnerSlug": "skyline-property",
+    "userId": {
+      "$oid": "6a04fe9cd67fac3965162085"
+    },
+    "status": "paid",
+    "totalValue": 79.2,
+    "totalTaxValue": 0,
+    "contact": {
+      "firstName": "Fiona",
+      "lastName": "Mendez",
+      "email": "fiona.mendezf52a@example.com",
+      "phoneNumber": "+1-555-0145-42"
+    },
+    "billingAddress": {
+      "state": "New York",
+      "country": "US",
+      "town": "Brooklyn ",
+      "zipCode": "11203"
+    },
+    "createdAt": {
+      "$date": "2026-05-13T22:43:29.336Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-13T22:43:43.454Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a04fdcba5afd8a64be0b54f"
+    },
+    "partnerSlug": "skyline-property",
+    "userId": {
+      "$oid": "6a04fed9a5afd8a64be14870"
+    },
+    "status": "paid",
+    "totalValue": 79.2,
+    "totalTaxValue": 0,
+    "contact": {
+      "firstName": "Aaron",
+      "lastName": "Mendez",
+      "email": "aaron.mendezd20c@example.com",
+      "phoneNumber": "+1-555-0110-12"
+    },
+    "billingAddress": {
+      "state": "New York",
+      "country": "US",
+      "town": "Brooklyn",
+      "zipCode": "11213"
+    },
+    "createdAt": {
+      "$date": "2026-05-13T22:40:11.128Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-13T22:44:45.205Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a0352a3d67fac39655de7fa"
+    },
+    "partnerSlug": "vanguard-realty",
+    "userId": {
+      "$oid": "6a0352fcd67fac39655e2631"
+    },
+    "status": "paid",
+    "totalValue": 119.2,
+    "totalTaxValue": 0,
+    "contact": {
+      "firstName": "Diana",
+      "lastName": "Zhou",
+      "email": "diana.zhou9937@example.com",
+      "phoneNumber": "+1-555-0153-55"
+    },
+    "billingAddress": {
+      "state": "Delaware",
+      "country": "US",
+      "town": "Bear",
+      "zipCode": "19701"
+    },
+    "createdAt": {
+      "$date": "2026-05-12T16:17:39.908Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-12T16:19:11.530Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a02838db4a841b94a76d413"
+    },
+    "partnerSlug": "vanguard-realty",
+    "userId": {
+      "$oid": "66391092153912d6988c9b4d"
+    },
+    "status": "paid",
+    "totalValue": 174.87,
+    "totalTaxValue": 16.47,
+    "contact": {
+      "firstName": "Owen",
+      "lastName": "Brooks",
+      "email": "owen.brooksfe97@example.com",
+      "phoneNumber": "+1-555-0154-51"
+    },
+    "billingAddress": {
+      "state": "Washington",
+      "country": "US",
+      "town": "Auburn",
+      "zipCode": "98002"
+    },
+    "createdAt": {
+      "$date": "2026-05-12T01:34:05.473Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-12T01:34:32.625Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a007eccbea3bb6b8f6fc7d8"
+    },
+    "partnerSlug": "vanguard-realty",
+    "userId": {
+      "$oid": "6a007f070b9064e8923db03e"
+    },
+    "status": "paid",
+    "totalValue": 126.35,
+    "totalTaxValue": 7.15,
+    "contact": {
+      "firstName": "Ian",
+      "lastName": "Young",
+      "email": "ian.young26cc@example.com",
+      "phoneNumber": "+1-555-0138-04"
+    },
+    "billingAddress": {
+      "state": "Pennsylvania",
+      "country": "US",
+      "town": "Philadelphia",
+      "zipCode": "19152"
+    },
+    "createdAt": {
+      "$date": "2026-05-10T12:49:16.339Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-10T12:50:18.825Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69fcfee64ff5b7ff54c2895a"
+    },
+    "partnerSlug": "vanguard-realty",
+    "userId": {
+      "$oid": "69fcffd2f6f50da9e0a712ca"
+    },
+    "status": "paid",
+    "totalValue": 126.35,
+    "totalTaxValue": 7.15,
+    "contact": {
+      "firstName": "Aaron",
+      "lastName": "Davis",
+      "email": "aaron.davis00d5@example.com",
+      "phoneNumber": "+1-555-0100-13"
+    },
+    "billingAddress": {
+      "state": "Pennsylvania",
+      "country": "US",
+      "town": "Philadelphia",
+      "zipCode": "19149"
+    },
+    "createdAt": {
+      "$date": "2026-05-07T21:06:46.028Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-07T21:10:45.336Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69fbab5ff6f50da9e02d8ccd"
+    },
+    "partnerSlug": "skyline-property",
+    "userId": {
+      "$oid": "69fbab8f4ff5b7ff544c1626"
+    },
+    "status": "paid",
+    "totalValue": 79.2,
+    "totalTaxValue": 0,
+    "contact": {
+      "firstName": "Priya",
+      "lastName": "Diaz",
+      "email": "priya.diaz69d1@example.com",
+      "phoneNumber": "+1-555-0105-09"
+    },
+    "billingAddress": {
+      "state": "New York",
+      "country": "US",
+      "town": "Brooklyn ",
+      "zipCode": "11213"
+    },
+    "createdAt": {
+      "$date": "2026-05-06T20:58:07.652Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-06T20:58:58.580Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69f63e6ff6f50da9e073894c"
+    },
+    "partnerSlug": "skyline-property",
+    "userId": {
+      "$oid": "69f63e81f6f50da9e0738c39"
+    },
+    "status": "paid",
+    "totalValue": 79.2,
+    "totalTaxValue": 0,
+    "contact": {
+      "firstName": "Zara",
+      "lastName": "Kim",
+      "email": "zara.kimcd64@example.com",
+      "phoneNumber": "+1-555-0105-00"
+    },
+    "billingAddress": {
+      "state": "New York",
+      "country": "US",
+      "town": "Brooklyn",
+      "zipCode": "11224"
+    },
+    "createdAt": {
+      "$date": "2026-05-02T18:11:59.354Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-02T18:12:23.946Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69f37567f6f50da9e0c66f13"
+    },
+    "partnerSlug": "vanguard-realty",
+    "userId": {
+      "$oid": "69f375eef6f50da9e0c6a9f2"
+    },
+    "status": "paid",
+    "totalValue": 126.35,
+    "totalTaxValue": 7.15,
+    "contact": {
+      "firstName": "Quinn",
+      "lastName": "Tanaka",
+      "email": "quinn.tanakaa66d@example.com",
+      "phoneNumber": "+1-555-0166-09"
+    },
+    "billingAddress": {
+      "state": "Pennsylvania",
+      "country": "US",
+      "town": "Lancaster",
+      "zipCode": "17602"
+    },
+    "createdAt": {
+      "$date": "2026-04-30T15:29:43.419Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-30T15:32:00.826Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69f2999963daa8821aafced4"
+    },
+    "partnerSlug": "skyline-property",
+    "userId": {
+      "$oid": "69f299d4270024735002805c"
+    },
+    "status": "paid",
+    "totalValue": 79.2,
+    "totalTaxValue": 0,
+    "contact": {
+      "firstName": "Fiona",
+      "lastName": "Quinn",
+      "email": "fiona.quinn5fe2@example.com",
+      "phoneNumber": "+1-555-0195-26"
+    },
+    "billingAddress": {
+      "state": "New York",
+      "country": "US",
+      "town": "Brooklyn ",
+      "zipCode": "11216"
+    },
+    "createdAt": {
+      "$date": "2026-04-29T23:51:53.183Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-29T23:52:56.770Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69f13509ae303051dbec986a"
+    },
+    "partnerSlug": "vanguard-realty",
+    "userId": {
+      "$oid": "69f13604ae303051dbecf875"
+    },
+    "status": "paid",
+    "totalValue": 126.35,
+    "totalTaxValue": 7.15,
+    "contact": {
+      "firstName": "Avery",
+      "lastName": "Kim",
+      "email": "avery.kim7428@example.com",
+      "phoneNumber": "+1-555-0116-40"
+    },
+    "billingAddress": {
+      "state": "Pennsylvania",
+      "country": "US",
+      "town": "Hazleton ",
+      "zipCode": "18201"
+    },
+    "createdAt": {
+      "$date": "2026-04-28T22:30:33.476Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-28T22:34:48.455Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69ed1831ac1a5aa5fe4755c7"
+    },
+    "partnerSlug": "skyline-property",
+    "userId": {
+      "$oid": "69ed1858ae303051db98dea9"
+    },
+    "status": "paid",
+    "totalValue": 79.2,
+    "totalTaxValue": 0,
+    "contact": {
+      "firstName": "Zara",
+      "lastName": "Young",
+      "email": "zara.young55ea@example.com",
+      "phoneNumber": "+1-555-0185-34"
+    },
+    "billingAddress": {
+      "state": "New York",
+      "country": "US",
+      "town": "New York",
+      "zipCode": "11207"
+    },
+    "createdAt": {
+      "$date": "2026-04-25T19:38:25.137Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-25T19:39:07.637Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69eab179ae303051db0b157f"
+    },
+    "partnerSlug": "skyline-property",
+    "userId": {
+      "$oid": "6720dfb148c0f75bbd0bcc70"
+    },
+    "status": "paid",
+    "totalValue": 79.2,
+    "totalTaxValue": 0,
+    "contact": {
+      "firstName": "Vince",
+      "lastName": "Evans",
+      "email": "vince.evans6f5e@example.com",
+      "phoneNumber": "+1-555-0111-94"
+    },
+    "billingAddress": {
+      "state": "New York",
+      "country": "US",
+      "town": "Brooklyn",
+      "zipCode": "11236"
+    },
+    "createdAt": {
+      "$date": "2026-04-23T23:55:37.832Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-23T23:56:27.812Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69deb552fc71e64a11cfcbf1"
+    },
+    "partnerSlug": "skyline-property",
+    "userId": {
+      "$oid": "69deb5a96a9725295ebaa7f0"
+    },
+    "status": "paid",
+    "totalValue": 79.2,
+    "totalTaxValue": 0,
+    "contact": {
+      "firstName": "Tasha",
+      "lastName": "Jensen",
+      "email": "tasha.jensen6d81@example.com",
+      "phoneNumber": "+1-555-0109-29"
+    },
+    "billingAddress": {
+      "state": "New York",
+      "country": "US",
+      "town": "Brooklyn",
+      "zipCode": "11203-5511"
+    },
+    "createdAt": {
+      "$date": "2026-04-14T21:44:50.960Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-14T21:46:25.227Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69d318ab5f6921f55f27fb90"
+    },
+    "partnerSlug": "vanguard-realty",
+    "userId": {
+      "$oid": "69d3191243bc64f3a5a2950d"
+    },
+    "status": "paid",
+    "totalValue": 188,
+    "totalTaxValue": 0,
+    "contact": {
+      "firstName": "Fiona",
+      "lastName": "Walsh",
+      "email": "fiona.walsh5fca@example.com",
+      "phoneNumber": "+1-555-0195-02"
+    },
+    "billingAddress": {
+      "state": "Oregon",
+      "country": "US",
+      "town": "Tigard",
+      "zipCode": "97442"
+    },
+    "createdAt": {
+      "$date": "2026-04-06T02:21:31.660Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-06T02:23:20.532Z"
+    }
+  }
+]

@@ -1,0 +1,222 @@
+[
+  {
+    "_id": {
+      "$oid": "654a0330e424dc37d588f2e7"
+    },
+    "title": "NYS 77-Hour Real Estate Salesperson Licensing Course",
+    "state": "New York",
+    "division": "REAL_ESTATE",
+    "subDivision": "PRE_LICENSING",
+    "price": 149
+  },
+  {
+    "_id": {
+      "$oid": "657ecfa243409e9ce8578185"
+    },
+    "title": "Tennessee Affiliate Broker Course e-Book",
+    "state": "Tennessee",
+    "division": "REAL_ESTATE",
+    "subDivision": "PRE_LICENSING",
+    "price": 29
+  },
+  {
+    "_id": {
+      "$oid": "6582b0eb0901459f366f718f"
+    },
+    "title": "Tennessee Real Estate License Courses",
+    "state": "Tennessee",
+    "division": "REAL_ESTATE",
+    "subDivision": "PRE_LICENSING",
+    "price": 199
+  },
+  {
+    "_id": {
+      "$oid": "6582b2530901459f366f7ab6"
+    },
+    "title": "Pass the Tennessee Real Estate Exam ",
+    "state": "Tennessee",
+    "division": "REAL_ESTATE",
+    "subDivision": "PRE_LICENSING",
+    "price": 125
+  },
+  {
+    "_id": {
+      "$oid": "66e14bdbc5342c9b12998ea2"
+    },
+    "title": "Arizona Real Estate Salesperson Book",
+    "state": "Arizona",
+    "division": "REAL_ESTATE",
+    "subDivision": "PRE_LICENSING",
+    "price": 39
+  },
+  {
+    "_id": {
+      "$oid": "661041b32e9cce2525f232d6"
+    },
+    "title": "Arizona 96-hour Real Estate Salesperson's Pre-Licensing Course",
+    "state": "Arizona",
+    "division": "REAL_ESTATE",
+    "subDivision": "PRE_LICENSING",
+    "price": 380
+  },
+  {
+    "_id": {
+      "$oid": "65929238254db6f72d37441f"
+    },
+    "title": "Pennsylvania Fundamentals & Practice: Books + Appendixes (v.3)",
+    "state": "Pennsylvania",
+    "division": "REAL_ESTATE",
+    "subDivision": "PRE_LICENSING",
+    "price": 29
+  },
+  {
+    "_id": {
+      "$oid": "6593d0ce254db6f72d5b79dc"
+    },
+    "title": "Pennsylvania Real Estate License Courses",
+    "state": "Pennsylvania",
+    "division": "REAL_ESTATE",
+    "subDivision": "PRE_LICENSING",
+    "price": 199
+  },
+  {
+    "_id": {
+      "$oid": "65944403254db6f72d64a181"
+    },
+    "title": "Pass the Pennsylvania Real Estate Exam",
+    "state": "Pennsylvania",
+    "division": "REAL_ESTATE",
+    "subDivision": "PRE_LICENSING",
+    "price": 125
+  },
+  {
+    "_id": {
+      "$oid": "65dca441f588de4806104b28"
+    },
+    "title": "South Carolina Real Estate Salesperson Course",
+    "state": "South Carolina",
+    "division": "REAL_ESTATE",
+    "subDivision": "PRE_LICENSING",
+    "price": 399
+  },
+  {
+    "_id": {
+      "$oid": "6811255eba00e0ccbe2301d7"
+    },
+    "title": "Minnesota 30H Real Estate Salesperson Course I",
+    "state": "Minnesota",
+    "division": "REAL_ESTATE",
+    "subDivision": "PRE_LICENSING",
+    "price": 100
+  },
+  {
+    "_id": {
+      "$oid": "681125830180d7d8abe7f362"
+    },
+    "title": "Minnesota 30H Real Estate Salesperson Course II",
+    "state": "Minnesota",
+    "division": "REAL_ESTATE",
+    "subDivision": "PRE_LICENSING",
+    "price": 100
+  },
+  {
+    "_id": {
+      "$oid": "6889f4397a823088e8857ad9"
+    },
+    "title": "Pass the Minnesota Real Estate Exam",
+    "state": "Minnesota",
+    "division": "REAL_ESTATE",
+    "subDivision": "PRE_LICENSING",
+    "price": 125
+  },
+  {
+    "_id": {
+      "$oid": "688a04bdf494c0426a6c3ebc"
+    },
+    "title": "Minnesota 30H Real Estate Salesperson Course III",
+    "state": "Minnesota",
+    "division": "REAL_ESTATE",
+    "subDivision": "PRE_LICENSING",
+    "price": 99
+  },
+  {
+    "_id": {
+      "$oid": "66ce02549518d003df9dacb0"
+    },
+    "title": "20 + 4 Hour SAFE Comprehensive: WA MLO Pre-Licensure Course Package",
+    "state": "Washington",
+    "division": "MORTGAGE",
+    "subDivision": "PRE_LICENSING",
+    "price": 199
+  },
+  {
+    "_id": {
+      "$oid": "678885e1455f2ed64a924c76"
+    },
+    "title": "20 Hour SAFE Comprehensive Book",
+    "state": "Nationwide",
+    "division": "MORTGAGE",
+    "subDivision": "PRE_LICENSING",
+    "price": 0
+  },
+  {
+    "_id": {
+      "$oid": "68cacf7b4784d4d0403222cf"
+    },
+    "title": "20+4 Hour Credit Banking Fee ($1.50 per course hour)",
+    "state": "Nationwide",
+    "division": "MORTGAGE",
+    "subDivision": "PRE_LICENSING",
+    "price": 36
+  },
+  {
+    "_id": {
+      "$oid": "685896e4860f08a5c21185ee"
+    },
+    "title": "90-Hour NY Property and Casualty Insurance Course",
+    "state": "New York",
+    "division": "INSURANCE",
+    "subDivision": "PRE_LICENSING",
+    "price": 99
+  },
+  {
+    "_id": {
+      "$oid": "693321ba325e4209fff3d486"
+    },
+    "title": "NY Property and Casualty Study Guide",
+    "state": "New York",
+    "division": "INSURANCE",
+    "subDivision": "SUPPLEMENTARY",
+    "price": 79
+  },
+  {
+    "_id": {
+      "$oid": "65ba17ffd4030408e2b7cc7c"
+    },
+    "title": "Washington Real Estate Broker Course",
+    "state": "Washington",
+    "division": "REAL_ESTATE",
+    "subDivision": "PRE_LICENSING",
+    "price": 169
+  },
+  {
+    "_id": {
+      "$oid": "65ba2904d4030408e2b8d844"
+    },
+    "title": "Pass the Washington Real Estate Exam",
+    "state": "Washington",
+    "division": "REAL_ESTATE",
+    "subDivision": "PRE_LICENSING",
+    "price": 125
+  },
+  {
+    "_id": {
+      "$oid": "66ce00db4013d0581068102f"
+    },
+    "title": "20 + 4 Hour SAFE Comprehensive: OR MLO Pre-Licensure Course Package",
+    "state": "Oregon",
+    "division": "MORTGAGE",
+    "subDivision": "PRE_LICENSING",
+    "price": 199
+  }
+]

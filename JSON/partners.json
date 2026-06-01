@@ -1,0 +1,58 @@
+[
+  {
+    "_id": {
+      "$oid": "69948ad575a77de3d81b1f22"
+    },
+    "slug": "vanguard-realty",
+    "name": "Vanguard Realty Group",
+    "description": "Boutique residential brokerage based in Manhattan. Focused on licensing and onboarding new agents across the tri-state area.",
+    "contactName": "Christina Walters",
+    "contactEmail": "christina@vanguardrealty.example.com",
+    "contactPhone": "+1-555-0100",
+    "state": "New York",
+    "brandColor": "#1B3768",
+    "brandInitials": "VR",
+    "studentsEnrolled": 17,
+    "seatAllocation": 100,
+    "commissionRate": 35,
+    "commissionType": "PERCENTAGE",
+    "coBrandedUrls": {
+      "prelicensing": "https://realestateu.com/p/vanguard-realty",
+      "ce": "https://realestateu.com/ce/vanguard-realty"
+    },
+    "createdAt": {
+      "$date": "2026-02-17T15:35:49.294Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-20T11:24:34.507Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69cd5c6e43bc64f3a51c75f1"
+    },
+    "slug": "skyline-property",
+    "name": "Skyline Property Partners",
+    "description": "Multi-state brokerage specialising in second-career real-estate agents. Active in TX, FL, and AZ.",
+    "contactName": "Marcus Hayes",
+    "contactEmail": "marcus@skylineproperty.example.com",
+    "contactPhone": "+1-555-0200",
+    "state": "Texas",
+    "brandColor": "#22805e",
+    "brandInitials": "SP",
+    "studentsEnrolled": 10,
+    "seatAllocation": 50,
+    "commissionRate": 35,
+    "commissionType": "PERCENTAGE",
+    "coBrandedUrls": {
+      "prelicensing": "https://realestateu.com/p/skyline-property",
+      "ce": "https://realestateu.com/ce/skyline-property"
+    },
+    "createdAt": {
+      "$date": "2026-04-01T17:57:02.304Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-14T01:05:01.942Z"
+    }
+  }
+]

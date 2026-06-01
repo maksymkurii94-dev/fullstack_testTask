@@ -1,0 +1,882 @@
+[
+  {
+    "_id": {
+      "$oid": "6a0d99f0b123892cf651b0c2"
+    },
+    "userId": {
+      "$oid": "6a0d99f0b123892cf651b0b8"
+    },
+    "packageId": {
+      "$oid": "654a0330e424dc37d588f2e7"
+    },
+    "orderId": {
+      "$oid": "6a0d997794c90c62a5617e24"
+    },
+    "version": 2,
+    "packageAssignType": "Checkout",
+    "createdAt": {
+      "$date": "2026-05-20T11:24:34.149Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-20T11:24:34.149Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a0cf894bd77c295034262ce"
+    },
+    "userId": {
+      "$oid": "6a0cf894bd77c295034262c3"
+    },
+    "packageId": {
+      "$oid": "6582b0eb0901459f366f718f"
+    },
+    "orderId": {
+      "$oid": "6a0cf835b123892cf6371865"
+    },
+    "version": 1,
+    "packageAssignType": "Checkout",
+    "createdAt": {
+      "$date": "2026-05-19T23:56:05.119Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-19T23:56:05.119Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a0cf895bd77c29503426cf5"
+    },
+    "userId": {
+      "$oid": "6a0cf894bd77c295034262c3"
+    },
+    "packageId": {
+      "$oid": "6582b2530901459f366f7ab6"
+    },
+    "orderId": {
+      "$oid": "6a0cf835b123892cf6371865"
+    },
+    "version": 1,
+    "packageAssignType": "Checkout",
+    "createdAt": {
+      "$date": "2026-05-19T23:56:05.500Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-19T23:56:05.500Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a0cf895bd77c29503426f7f"
+    },
+    "userId": {
+      "$oid": "6a0cf894bd77c295034262c3"
+    },
+    "packageId": {
+      "$oid": "657ecfa243409e9ce8578185"
+    },
+    "orderId": {
+      "$oid": "6a0cf835b123892cf6371865"
+    },
+    "version": 1,
+    "packageAssignType": "Checkout",
+    "createdAt": {
+      "$date": "2026-05-19T23:56:05.679Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-19T23:56:05.679Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a0ba50094c90c62a5e18bb6"
+    },
+    "userId": {
+      "$oid": "6a0b9fb9bd77c29503d9edcc"
+    },
+    "packageId": {
+      "$oid": "66e14bdbc5342c9b12998ea2"
+    },
+    "orderId": {
+      "$oid": "6a0ba4e6b123892cf6d1d5c4"
+    },
+    "version": 1,
+    "packageAssignType": "Checkout",
+    "createdAt": {
+      "$date": "2026-05-18T23:47:12.180Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-18T23:47:12.180Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a0b9fb9bd77c29503d9edd7"
+    },
+    "userId": {
+      "$oid": "6a0b9fb9bd77c29503d9edcc"
+    },
+    "packageId": {
+      "$oid": "661041b32e9cce2525f232d6"
+    },
+    "orderId": {
+      "$oid": "6a0b9f9ab123892cf6cfb468"
+    },
+    "version": 2,
+    "packageAssignType": "Checkout",
+    "createdAt": {
+      "$date": "2026-05-18T23:24:45.032Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-18T23:29:05.846Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a0b29a3b123892cf695aad1"
+    },
+    "userId": {
+      "$oid": "6a0b29a3b123892cf695aac7"
+    },
+    "packageId": {
+      "$oid": "6593d0ce254db6f72d5b79dc"
+    },
+    "orderId": {
+      "$oid": "6a0b296cbd77c295039ebfbf"
+    },
+    "version": 2,
+    "packageAssignType": "Checkout",
+    "createdAt": {
+      "$date": "2026-05-18T15:00:52.411Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-18T15:00:52.411Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a0b29a4b123892cf695b4c1"
+    },
+    "userId": {
+      "$oid": "6a0b29a3b123892cf695aac7"
+    },
+    "packageId": {
+      "$oid": "65944403254db6f72d64a181"
+    },
+    "orderId": {
+      "$oid": "6a0b296cbd77c295039ebfbf"
+    },
+    "version": 1,
+    "packageAssignType": "Checkout",
+    "createdAt": {
+      "$date": "2026-05-18T15:00:52.626Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-18T15:00:52.626Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a0b29a4b123892cf695b677"
+    },
+    "userId": {
+      "$oid": "6a0b29a3b123892cf695aac7"
+    },
+    "packageId": {
+      "$oid": "65929238254db6f72d37441f"
+    },
+    "orderId": {
+      "$oid": "6a0b296cbd77c295039ebfbf"
+    },
+    "version": 1,
+    "packageAssignType": "Checkout",
+    "createdAt": {
+      "$date": "2026-05-18T15:00:52.759Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-18T15:00:52.759Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a0756e094c90c62a5d2b6b6"
+    },
+    "userId": {
+      "$oid": "6a0756e094c90c62a5d2b6a8"
+    },
+    "packageId": {
+      "$oid": "65dca441f588de4806104b28"
+    },
+    "orderId": {
+      "$oid": "6a0756b094c90c62a5d2a33d"
+    },
+    "version": 2,
+    "packageAssignType": "Checkout",
+    "createdAt": {
+      "$date": "2026-05-15T17:24:49.754Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-15T17:24:49.754Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a06c92ca5afd8a64b6f17b1"
+    },
+    "userId": {
+      "$oid": "6a06c92ca5afd8a64b6f17a6"
+    },
+    "packageId": {
+      "$oid": "6811255eba00e0ccbe2301d7"
+    },
+    "orderId": {
+      "$oid": "6a06c8c4a5afd8a64b6f14ba"
+    },
+    "version": 3,
+    "packageAssignType": "Checkout",
+    "createdAt": {
+      "$date": "2026-05-15T07:20:13.376Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-15T07:20:13.376Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a06c92da5afd8a64b6f25c5"
+    },
+    "userId": {
+      "$oid": "6a06c92ca5afd8a64b6f17a6"
+    },
+    "packageId": {
+      "$oid": "681125830180d7d8abe7f362"
+    },
+    "orderId": {
+      "$oid": "6a06c8c4a5afd8a64b6f14ba"
+    },
+    "version": 3,
+    "packageAssignType": "Checkout",
+    "createdAt": {
+      "$date": "2026-05-15T07:20:14.324Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-15T07:20:14.324Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a06c92ea5afd8a64b6f320a"
+    },
+    "userId": {
+      "$oid": "6a06c92ca5afd8a64b6f17a6"
+    },
+    "packageId": {
+      "$oid": "688a04bdf494c0426a6c3ebc"
+    },
+    "orderId": {
+      "$oid": "6a06c8c4a5afd8a64b6f14ba"
+    },
+    "version": 4,
+    "packageAssignType": "Checkout",
+    "createdAt": {
+      "$date": "2026-05-15T07:20:14.680Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-15T07:20:14.680Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a06c92ea5afd8a64b6f3584"
+    },
+    "userId": {
+      "$oid": "6a06c92ca5afd8a64b6f17a6"
+    },
+    "packageId": {
+      "$oid": "6889f4397a823088e8857ad9"
+    },
+    "orderId": {
+      "$oid": "6a06c8c4a5afd8a64b6f14ba"
+    },
+    "version": 2,
+    "packageAssignType": "Checkout",
+    "createdAt": {
+      "$date": "2026-05-15T07:20:14.872Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-15T07:20:14.872Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a06366da5afd8a64b47d454"
+    },
+    "userId": {
+      "$oid": "6a06366da5afd8a64b47d425"
+    },
+    "packageId": {
+      "$oid": "66ce02549518d003df9dacb0"
+    },
+    "orderId": {
+      "$oid": "6a06364ba5afd8a64b47c707"
+    },
+    "version": 3,
+    "packageAssignType": "Checkout",
+    "createdAt": {
+      "$date": "2026-05-14T20:54:07.235Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-14T20:54:07.235Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a06366fa5afd8a64b47eb44"
+    },
+    "userId": {
+      "$oid": "6a06366da5afd8a64b47d425"
+    },
+    "packageId": {
+      "$oid": "678885e1455f2ed64a924c76"
+    },
+    "orderId": {
+      "$oid": "6a06364ba5afd8a64b47c707"
+    },
+    "version": 4,
+    "packageAssignType": "Checkout",
+    "createdAt": {
+      "$date": "2026-05-14T20:54:07.468Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-14T20:54:07.468Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a06366fa5afd8a64b47eb77"
+    },
+    "userId": {
+      "$oid": "6a06366da5afd8a64b47d425"
+    },
+    "packageId": {
+      "$oid": "68cacf7b4784d4d0403222cf"
+    },
+    "orderId": {
+      "$oid": "6a06364ba5afd8a64b47c707"
+    },
+    "version": 1,
+    "packageAssignType": "Checkout",
+    "createdAt": {
+      "$date": "2026-05-14T20:54:07.652Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-14T20:54:07.652Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a053c50a5afd8a64bfe47a9"
+    },
+    "userId": {
+      "$oid": "699d2f925ea9249b0468b7af"
+    },
+    "packageId": {
+      "$oid": "6582b2530901459f366f7ab6"
+    },
+    "orderId": {
+      "$oid": "6a053bbba5afd8a64bfe2176"
+    },
+    "version": 1,
+    "packageAssignType": "Checkout",
+    "createdAt": {
+      "$date": "2026-05-14T03:06:56.872Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-14T03:06:56.872Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a051fbcd67fac39652572ba"
+    },
+    "userId": {
+      "$oid": "6a051fbcd67fac39652572af"
+    },
+    "packageId": {
+      "$oid": "654a0330e424dc37d588f2e7"
+    },
+    "orderId": {
+      "$oid": "6a051fb0b4a841b94a78a52c"
+    },
+    "version": 2,
+    "packageAssignType": "Checkout",
+    "createdAt": {
+      "$date": "2026-05-14T01:05:01.452Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-14T01:05:01.452Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a050521d67fac396518e431"
+    },
+    "userId": {
+      "$oid": "6a050521d67fac396518e3cc"
+    },
+    "packageId": {
+      "$oid": "685896e4860f08a5c21185ee"
+    },
+    "orderId": {
+      "$oid": "6a0504a9d67fac396518aacb"
+    },
+    "version": 2,
+    "packageAssignType": "Checkout",
+    "createdAt": {
+      "$date": "2026-05-13T23:11:31.143Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-13T23:11:31.143Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a050523d67fac396518fb11"
+    },
+    "userId": {
+      "$oid": "6a050521d67fac396518e3cc"
+    },
+    "packageId": {
+      "$oid": "693321ba325e4209fff3d486"
+    },
+    "orderId": {
+      "$oid": "6a0504a9d67fac396518aacb"
+    },
+    "version": 2,
+    "packageAssignType": "Checkout",
+    "createdAt": {
+      "$date": "2026-05-13T23:11:31.309Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-13T23:11:31.309Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a04ff59b4a841b94a69b2e1"
+    },
+    "userId": {
+      "$oid": "6a04ff59b4a841b94a69b2d2"
+    },
+    "packageId": {
+      "$oid": "654a0330e424dc37d588f2e7"
+    },
+    "orderId": {
+      "$oid": "6a04ff22b4a841b94a699946"
+    },
+    "version": 2,
+    "packageAssignType": "Checkout",
+    "createdAt": {
+      "$date": "2026-05-13T22:46:49.851Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-13T22:46:49.851Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a04fe9cd67fac3965162090"
+    },
+    "userId": {
+      "$oid": "6a04fe9cd67fac3965162085"
+    },
+    "packageId": {
+      "$oid": "654a0330e424dc37d588f2e7"
+    },
+    "orderId": {
+      "$oid": "6a04fe91a5afd8a64be110c1"
+    },
+    "version": 2,
+    "packageAssignType": "Checkout",
+    "createdAt": {
+      "$date": "2026-05-13T22:43:41.047Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-13T22:43:41.047Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a04fed9a5afd8a64be148f0"
+    },
+    "userId": {
+      "$oid": "6a04fed9a5afd8a64be14870"
+    },
+    "packageId": {
+      "$oid": "654a0330e424dc37d588f2e7"
+    },
+    "orderId": {
+      "$oid": "6a04fdcba5afd8a64be0b54f"
+    },
+    "version": 2,
+    "packageAssignType": "Checkout",
+    "createdAt": {
+      "$date": "2026-05-13T22:44:43.056Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-13T22:44:43.056Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a0352fcd67fac39655e263c"
+    },
+    "userId": {
+      "$oid": "6a0352fcd67fac39655e2631"
+    },
+    "packageId": {
+      "$oid": "6593d0ce254db6f72d5b79dc"
+    },
+    "orderId": {
+      "$oid": "6a0352a3d67fac39655de7fa"
+    },
+    "version": 2,
+    "packageAssignType": "Checkout",
+    "createdAt": {
+      "$date": "2026-05-12T16:19:09.113Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-12T19:42:30.363Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a0283a5b4a841b94a76ec30"
+    },
+    "userId": {
+      "$oid": "66391092153912d6988c9b4d"
+    },
+    "packageId": {
+      "$oid": "65ba17ffd4030408e2b7cc7c"
+    },
+    "orderId": {
+      "$oid": "6a02838db4a841b94a76d413"
+    },
+    "version": 3,
+    "packageAssignType": "Checkout",
+    "createdAt": {
+      "$date": "2026-05-12T01:34:31.012Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-12T01:34:31.012Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a0283a7b4a841b94a76f6e0"
+    },
+    "userId": {
+      "$oid": "66391092153912d6988c9b4d"
+    },
+    "packageId": {
+      "$oid": "65ba2904d4030408e2b8d844"
+    },
+    "orderId": {
+      "$oid": "6a02838db4a841b94a76d413"
+    },
+    "version": 1,
+    "packageAssignType": "Checkout",
+    "createdAt": {
+      "$date": "2026-05-12T01:34:31.314Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-12T01:34:31.314Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "6a007f070b9064e8923db049"
+    },
+    "userId": {
+      "$oid": "6a007f070b9064e8923db03e"
+    },
+    "packageId": {
+      "$oid": "6593d0ce254db6f72d5b79dc"
+    },
+    "orderId": {
+      "$oid": "6a007eccbea3bb6b8f6fc7d8"
+    },
+    "version": 2,
+    "packageAssignType": "Checkout",
+    "createdAt": {
+      "$date": "2026-05-10T12:50:15.902Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-10T12:50:15.902Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69fcffd2f6f50da9e0a712df"
+    },
+    "userId": {
+      "$oid": "69fcffd2f6f50da9e0a712ca"
+    },
+    "packageId": {
+      "$oid": "6593d0ce254db6f72d5b79dc"
+    },
+    "orderId": {
+      "$oid": "69fcfee64ff5b7ff54c2895a"
+    },
+    "version": 2,
+    "packageAssignType": "Checkout",
+    "createdAt": {
+      "$date": "2026-05-07T21:10:43.059Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-07T21:10:43.059Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69fbab8f4ff5b7ff544c1630"
+    },
+    "userId": {
+      "$oid": "69fbab8f4ff5b7ff544c1626"
+    },
+    "packageId": {
+      "$oid": "654a0330e424dc37d588f2e7"
+    },
+    "orderId": {
+      "$oid": "69fbab5ff6f50da9e02d8ccd"
+    },
+    "version": 2,
+    "packageAssignType": "Checkout",
+    "createdAt": {
+      "$date": "2026-05-06T20:58:56.331Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-06T20:58:56.331Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69f63e81f6f50da9e0738c43"
+    },
+    "userId": {
+      "$oid": "69f63e81f6f50da9e0738c39"
+    },
+    "packageId": {
+      "$oid": "654a0330e424dc37d588f2e7"
+    },
+    "orderId": {
+      "$oid": "69f63e6ff6f50da9e073894c"
+    },
+    "version": 2,
+    "packageAssignType": "Checkout",
+    "createdAt": {
+      "$date": "2026-05-02T18:12:18.707Z"
+    },
+    "updatedAt": {
+      "$date": "2026-05-02T18:12:18.707Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69f375eef6f50da9e0c6a9fe"
+    },
+    "userId": {
+      "$oid": "69f375eef6f50da9e0c6a9f2"
+    },
+    "packageId": {
+      "$oid": "6593d0ce254db6f72d5b79dc"
+    },
+    "orderId": {
+      "$oid": "69f37567f6f50da9e0c66f13"
+    },
+    "version": 2,
+    "packageAssignType": "Checkout",
+    "createdAt": {
+      "$date": "2026-04-30T15:31:59.204Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-30T15:31:59.204Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69f299d42700247350028066"
+    },
+    "userId": {
+      "$oid": "69f299d4270024735002805c"
+    },
+    "packageId": {
+      "$oid": "654a0330e424dc37d588f2e7"
+    },
+    "orderId": {
+      "$oid": "69f2999963daa8821aafced4"
+    },
+    "version": 2,
+    "packageAssignType": "Checkout",
+    "createdAt": {
+      "$date": "2026-04-29T23:52:53.624Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-29T23:52:53.624Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69f13604ae303051dbecf884"
+    },
+    "userId": {
+      "$oid": "69f13604ae303051dbecf875"
+    },
+    "packageId": {
+      "$oid": "6593d0ce254db6f72d5b79dc"
+    },
+    "orderId": {
+      "$oid": "69f13509ae303051dbec986a"
+    },
+    "version": 2,
+    "packageAssignType": "Checkout",
+    "createdAt": {
+      "$date": "2026-04-28T22:34:45.562Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-28T22:34:45.562Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69ed1858ae303051db98deb3"
+    },
+    "userId": {
+      "$oid": "69ed1858ae303051db98dea9"
+    },
+    "packageId": {
+      "$oid": "654a0330e424dc37d588f2e7"
+    },
+    "orderId": {
+      "$oid": "69ed1831ac1a5aa5fe4755c7"
+    },
+    "version": 2,
+    "packageAssignType": "Checkout",
+    "createdAt": {
+      "$date": "2026-04-25T19:39:05.819Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-25T19:39:05.819Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69eab1a8ae303051db0b2fa1"
+    },
+    "userId": {
+      "$oid": "6720dfb148c0f75bbd0bcc70"
+    },
+    "packageId": {
+      "$oid": "654a0330e424dc37d588f2e7"
+    },
+    "orderId": {
+      "$oid": "69eab179ae303051db0b157f"
+    },
+    "version": 2,
+    "packageAssignType": "Checkout",
+    "createdAt": {
+      "$date": "2026-04-23T23:56:25.900Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-23T23:56:25.900Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69deb5a96a9725295ebaa7fa"
+    },
+    "userId": {
+      "$oid": "69deb5a96a9725295ebaa7f0"
+    },
+    "packageId": {
+      "$oid": "654a0330e424dc37d588f2e7"
+    },
+    "orderId": {
+      "$oid": "69deb552fc71e64a11cfcbf1"
+    },
+    "version": 2,
+    "packageAssignType": "Checkout",
+    "createdAt": {
+      "$date": "2026-04-14T21:46:18.269Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-14T21:46:18.269Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69d3191243bc64f3a5a29518"
+    },
+    "userId": {
+      "$oid": "69d3191243bc64f3a5a2950d"
+    },
+    "packageId": {
+      "$oid": "66ce00db4013d0581068102f"
+    },
+    "orderId": {
+      "$oid": "69d318ab5f6921f55f27fb90"
+    },
+    "version": 2,
+    "packageAssignType": "Checkout",
+    "createdAt": {
+      "$date": "2026-04-06T02:23:16.708Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-06T02:23:16.708Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69d3191443bc64f3a5a2aa13"
+    },
+    "userId": {
+      "$oid": "69d3191243bc64f3a5a2950d"
+    },
+    "packageId": {
+      "$oid": "678885e1455f2ed64a924c76"
+    },
+    "orderId": {
+      "$oid": "69d318ab5f6921f55f27fb90"
+    },
+    "version": 2,
+    "packageAssignType": "Checkout",
+    "createdAt": {
+      "$date": "2026-04-06T02:23:16.861Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-06T02:23:16.861Z"
+    }
+  },
+  {
+    "_id": {
+      "$oid": "69d3191443bc64f3a5a2aa3c"
+    },
+    "userId": {
+      "$oid": "69d3191243bc64f3a5a2950d"
+    },
+    "packageId": {
+      "$oid": "68cacf7b4784d4d0403222cf"
+    },
+    "orderId": {
+      "$oid": "69d318ab5f6921f55f27fb90"
+    },
+    "version": 1,
+    "packageAssignType": "Checkout",
+    "createdAt": {
+      "$date": "2026-04-06T02:23:16.970Z"
+    },
+    "updatedAt": {
+      "$date": "2026-04-06T02:23:16.970Z"
+    }
+  }
+]
