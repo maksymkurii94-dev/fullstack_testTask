@@ -1,38 +1,40 @@
-# Partner Dashboard proof of concept
+# Partner Dashboard (PoC)
 
-RealEstateU is already well established in B2C, acquisitions made by organic search and paid ads. However B2B customers are largely untapped. This could be lucrative because a single successful deal can mean that we can sell products for tens or hundreds of agents on a recurring basis, with potential to expand through the product stack. As such we intend to increase the number of sales agents we have reaching out to businesses.
+React + Express monorepo. Mock data lives in `JSON/` and is served as REST endpoints.
 
-Given that this is a new form of outreach for us, we lack technical infrastructure to support these deals after they have been made. A common request we receive is for a way of tracking agent requirements and progress.
+## Run
 
-Build a **Partner Dashboard** page using the data in this folder.
+```bash
+npm install
+npm run dev
+```
 
-Treat each JSON file as a response from a separate API endpoint. The shapes and IDs are analogous to the actual wrappers our API returns.
+- UI: http://localhost:5173/partner/vanguard-realty  
+- API: http://localhost:3001/api/partners  
 
-## Requirements
+## Stack
 
-For a single partner, the dashboard should display:
+- **client/** — React (Vite), port 5173  
+- **server/** — Express, port 3001  
 
-- UX elements orienting the partner's name and state.
-- **Stat cards** summarising the partner's activity:
-  - Total students enrolled
-  - Active CE agents
-  - Commission earned (month-to-date)
-  - Course completions, with a completion rate
-- UX element for **recent Student Activity** — the most recent students with their course title, enrollment date, progress, and indication of overall status.
+## API
 
-Stack and styling are up to you. Aim for ~3-4 hour turnaround.
+| Endpoint | File |
+|----------|------|
+| `/api/partners` | `partners.json` |
+| `/api/users` | `users.json` |
+| `/api/user-packages` | `userPackages.json` |
+| `/api/user-courses` | `userCourses.json` |
+| `/api/orders` | `orders.json` |
+| `/api/packages` | `packages.json` |
 
-## Data files
+UI uses `GET /api/partners/:slug/dashboard?asOf=2026-05-31` (mock dates are mostly May 2026).
 
-- `partners.json`
-- `users.json`
-- `userPackages.json`
-- `userCourses.json`
-- `orders.json`
-- `packages.json`
+## Improvements (with more time)
 
-The relationships between collections should be inferrable from the field names. If you think you're missing information, reach out at vay@realestateu.com.
-
-## Deliverable
-
-Your code, documentation (inc. run commands and dependencies), and how you'd continue the project with more time.
+- Partner auth and data scoped by logged-in account
+- Replace JSON files with a real database and keep the same API shape
+- Unit tests for dashboard metrics; API integration tests
+- TypeScript on server and client; shared API types
+- Pagination and filters on student activity
+- Production deploy (Docker, CI, env-based config)
