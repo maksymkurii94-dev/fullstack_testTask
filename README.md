@@ -15,7 +15,7 @@ npm run dev
 ## Stack
 
 - **client/** — React (Vite), port 5173  
-- **server/** — Express, port 3001  
+- **server/** — Node.js, Express
 
 ## API
 
