@@ -1,4 +1,3 @@
-
 export function normalizeMongo(value) {
   if (value === null || value === undefined) return value;
 
