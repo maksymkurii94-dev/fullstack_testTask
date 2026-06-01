@@ -1,4 +1,4 @@
-# Partner Dashboard (PoC)
+# Partner Dashboard
 
 React + Express monorepo. Mock data lives in `JSON/` and is served as REST endpoints.
 
