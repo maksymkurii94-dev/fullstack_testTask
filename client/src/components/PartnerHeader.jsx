@@ -1,6 +1,4 @@
-import { memo } from "react";
-
-function PartnerHeader({ partner, seatUsed }) {
+export default function PartnerHeader({ partner, seatUsed }) {
   const seatPct =
     partner.seatAllocation > 0
       ? Math.min(100, Math.round((seatUsed / partner.seatAllocation) * 100))
@@ -40,5 +38,3 @@ function PartnerHeader({ partner, seatUsed }) {
     </header>
   );
 }
-
-export default memo(PartnerHeader);

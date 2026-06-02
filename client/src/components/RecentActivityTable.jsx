@@ -1,4 +1,3 @@
-import { memo } from "react";
 import StatusBadge from "./StatusBadge.jsx";
 import { formatDate } from "../utils/format.js";
 
@@ -28,9 +27,7 @@ function ActivityRow({ row, index }) {
   );
 }
 
-const MemoRow = memo(ActivityRow);
-
-function RecentActivityTable({ rows }) {
+export default function RecentActivityTable({ rows }) {
   if (!rows.length) {
     return (
       <p className="activity-table__empty">No student activity yet.</p>
@@ -51,12 +48,14 @@ function RecentActivityTable({ rows }) {
         </thead>
         <tbody>
           {rows.map((row, i) => (
-            <MemoRow key={`${row.userId}-${row.enrolledAt}-${i}`} row={row} index={i} />
+            <ActivityRow
+              key={`${row.userId}-${row.enrolledAt}-${i}`}
+              row={row}
+              index={i}
+            />
           ))}
         </tbody>
       </table>
     </div>
   );
 }
-
-export default memo(RecentActivityTable);

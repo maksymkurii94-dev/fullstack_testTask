@@ -1,7 +1,6 @@
-import { memo } from "react";
 import { useNavigate } from "react-router-dom";
 
-function PartnerSelect({ partners, currentSlug }) {
+export default function PartnerSelect({ partners, currentSlug }) {
   const navigate = useNavigate();
 
   return (
@@ -21,5 +20,3 @@ function PartnerSelect({ partners, currentSlug }) {
     </label>
   );
 }
-
-export default memo(PartnerSelect);

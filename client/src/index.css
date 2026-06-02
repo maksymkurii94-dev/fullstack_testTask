@@ -248,10 +248,12 @@ body {
 
 .activity-table-wrap {
   overflow-x: auto;
+  overflow-y: hidden;
   border: 1px solid var(--line);
   border-radius: var(--radius);
   background: var(--paper-elevated);
   box-shadow: var(--shadow);
+  scrollbar-gutter: stable;
 }
 
 .activity-table {

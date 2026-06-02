@@ -1,6 +1,4 @@
-import { memo } from "react";
-
-function StatCard({ label, value, hint, delay = 0 }) {
+export default function StatCard({ label, value, hint, delay = 0 }) {
   return (
     <article
       className="stat-card"
@@ -12,5 +10,3 @@ function StatCard({ label, value, hint, delay = 0 }) {
     </article>
   );
 }
-
-export default memo(StatCard);
